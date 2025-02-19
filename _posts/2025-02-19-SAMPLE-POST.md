@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "POST-TITLE"
-date: YYYY-MM-DD hh:mm:ss -0000
+date: 2025-02-01
 categories: CATEGORY-1 CATEGORY-2
 ---
 # sample1
