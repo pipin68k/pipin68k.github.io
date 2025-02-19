@@ -1,5 +1,13 @@
-# pipin68k.github.io
+---
+layout: default
+title: Home
+---
 
-{% for post in paginator.posts %}
-<a href="{{ post.url }}">{{ post.title }}></a>
-{% endfor %}
+# My Blog
+
+## Posts
+<ul>
+  {% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%Y-%m-%d" }})</li>
+  {% endfor %}
+</ul>
