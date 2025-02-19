@@ -1,6 +1,7 @@
 title: My Blog
 description: "A simple blog powered by Jekyll"
 theme: jekyll-theme-minimal
+paginate: 15
 
 # Jekyllのプラグインを有効化
 plugins:
