@@ -1,6 +1,7 @@
 ---
 layout: default
 title: My Blog
+paginate: true
 ---
 
 <!-- This loops through the paginated posts -->
