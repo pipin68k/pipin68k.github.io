@@ -2,16 +2,8 @@ title: My Blog
 description: "A simple blog powered by Jekyll"
 theme: jekyll-theme-minimal
 
-# Jekyllのプラグインを有効化
 plugins:
   - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-github-metadata
-  - jekyll-optional-front-matter
-  - jekyll-readme-index
-  - jekyll-default-layout
-  - jekyll-titles-from-headings
 
-paginate: 5  # 1ページあたりの投稿数
+paginate: 5
 paginate_path: "/page:num/"
