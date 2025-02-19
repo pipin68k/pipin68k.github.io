@@ -1,6 +1,7 @@
 ---
 layout: default
 title: My Blog
+pagination: true
 ---
 
 <ul>
