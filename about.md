@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "PAGE-TITLE"
+title: "About"
 ---
-# about
+# About
