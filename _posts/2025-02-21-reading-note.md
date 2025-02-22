@@ -3,7 +3,8 @@ layout: post
 title: "「なぜ働いていると本が読めなくなるのか」感想あるいはアテンション・エコノミーへの対峙"
 author: pipin68k 
 date: 2025-02-21
-tags: "読書感想"
+categories: "読書感想"
+tags: "なぜ働いていると本が読めなくなるのか" "アテンション・エコノミー" "ナラティブ"
 ---
 - Table of Content
 {:toc}
