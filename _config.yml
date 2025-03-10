@@ -1,3 +1,5 @@
 theme: minima
 lang: ja
 google_analytics: G-5V9K1HW3TX
+plugins:
+  - jekyll-seo-tag
