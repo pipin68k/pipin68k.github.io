@@ -1,3 +1,10 @@
 theme: minima
 lang: ja
 google_analytics: G-5V9K1HW3TX
+social_links:
+  - title: Minima Theme repository at GitHub
+    icon: github
+    url: "https://github.com/jekyll/minima"
+  - title: Jekyll at X (formerly Twitter)
+    icon: x-twitter
+    url: "https://x.com/jekyllrb"
